@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/restfull-webservice.iml" filepath="$PROJECT_DIR$/.idea/modules/restfull-webservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/restfull-webservice_main.iml" filepath="$PROJECT_DIR$/.idea/modules/restfull-webservice_main.iml" group="restfull-webservice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/restfull-webservice_test.iml" filepath="$PROJECT_DIR$/.idea/modules/restfull-webservice_test.iml" group="restfull-webservice" />
+    </modules>
+  </component>
+</project>
