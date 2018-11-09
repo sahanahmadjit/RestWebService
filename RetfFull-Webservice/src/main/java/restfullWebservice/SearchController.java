@@ -12,7 +12,7 @@ public class SearchController {
     private final AtomicLong counter = new AtomicLong();
 
     @RequestMapping("/search")
-    public SearchCloud greeting(@RequestParam(value="query", defaultValue="World") String searhQuery) {
+    public SearchCloud searchCloud(@RequestParam(value="query", defaultValue="World") String searhQuery) {
         return new SearchCloud(counter.incrementAndGet(),searhQuery);
     }
 
